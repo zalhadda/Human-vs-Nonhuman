@@ -15,4 +15,3 @@ The Parallel Convolutional Neural Network is implemented in parallel_cnn/
 	* prepare_data.py finds the most frequently used words and assigns them a score, this score will then be used to vectorise the emails so they can be fed into the neural network
 	* classification_network.py implements the neural network and performs a few more modifications on the data
 
-Link to presentation video: https://youtu.be/5gfe4IyNvGg
